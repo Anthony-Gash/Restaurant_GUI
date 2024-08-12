@@ -1,0 +1,51 @@
+﻿Item,Price,Category,Description,Meal
+Breakfast Burrito,$8.99 ,Sandwich/Wrap,A delicious combination of scrambled eggs cheese vegetables and choice of meat wrapped in a warm tortilla.,Breakfast
+Breakfast Sandwich,$6.99 ,Sandwich/Wrap,A classic morning delight featuring eggs cheese and your choice of breakfast meat sandwiched between a bagel.,Breakfast
+Omelette,$9.99 ,Eggs,Fluffy eggs mixed with various fillings such as cheese vegetables and meats folded into a delightful package.,Breakfast
+Over Easy Eggs,$5.99 ,Eggs,Fried eggs cooked gently on both sides leaving the yolk slightly runny for a satisfying breakfast experience.,Breakfast
+Eggs Benedict,$10.99 ,Eggs,Poached eggs served on toasted English muffins with Canadian bacon or ham topped with hollandaise sauce.,Breakfast
+Pancakes,$7.99 ,Pancakes/Waffles/French Toast,Light and fluffy cakes made from batter cooked until golden brown and served with butter and syrup,Breakfast
+Waffles,$8.49 ,Pancakes/Waffles/French Toast,Crisp and golden grids of batter cooked until fluffy and served with syrup and butter.,Breakfast
+French Toast,$7.49 ,Pancakes/Waffles/French Toast,Slices of bread soaked in a mixture of eggs and milk then fried until golden brown perfect for a sweet and savory breakfast.,Breakfast
+Bagel with Butter,$2.99 ,Bagel,A freshly baked bagel sliced and served with a generous spread of creamy butter.,Breakfast
+Bagel with Cream Cheese,$3.49 ,Bagel, A delicious bagel topped with a generous layer of smooth cream cheese.,Breakfast
+Bagel,$2.49 ,Bagel,A classic breakfast staple freshly baked and perfect when toasted and topped with your favorite spread.,Breakfast
+Fruit Salad,$4.49 ,Side,A refreshing combination of fresh fruits such as strawberries melons grapes and pineapple served chilled.,Breakfast
+Yogurt Parfait,$4.99 ,Side,Layers of creamy yogurt granola and fresh fruit creating a delightful and nutritious breakfast option.,Breakfast
+Bacon,$3.99 ,Side,Crispy strips of savory cured meat.,Breakfast
+Sausage,$3.49 ,Side,Juicy and flavorful links or patties of seasoned ground meat.,Breakfast
+Coffee,$2.29 ,Drinks,,Breakfast
+Orange Juice,$2.49 ,Drinks,,Breakfast
+Applie Juice,$2.49 ,Drinks,,Breakfast
+Classic Cheeseburger,$10.99 ,Burger,A juicy beef patty topped with melted cheese lettuce tomato onion and pickles served on a toasted bun. Comes with fries or a side salad.,Lunch
+Bacon Cheeseburger,$12.99 ,Burger,Juicy beef patty topped with crispy bacon melted cheese fresh lettuce ripe tomato and tangy pickles served on a toasted bun.,Lunch
+Grilled Chicken Caesar Salad,$11.99 ,Salad,Grilled chicken breast served on a bed of crisp romaine lettuce tossed with Caesar dressing Parmesan cheese and croutons.,Lunch
+Mediterranean Chickpea Salad,$9.99 ,Salad,A refreshing salad featuring tender chickpeas crisp vegetables tangy feta cheese and Kalamata olives tossed in a zesty lemon vinaigrette dressing. Garnished with toasted pine nuts for added crunch.,Lunch
+Margherita Pizza,$10.99 ,Pizza,Traditional Italian pizza topped with fresh tomatoes mozzarella cheese basil and a drizzle of olive oil.,Lunch
+Cheese Pizza,$9.99 ,Pizza,Classic pizza topped with rich tomato sauce and melted mozzarella cheese on a hand-stretched dough crust.,Lunch
+Pepperoni Pizza,$11.99 ,Pizza,Savory pizza topped with zesty tomato sauce gooey mozzarella cheese and spicy slices of pepperoni on a crispy crust.,Lunch
+BLT Sandwich,$9.99 ,Entrée,Crispy bacon lettuce and tomato sandwiched between slices of toasted bread served with mayo.,Lunch
+Chicken Quesadilla,$10.99 ,Entrée,Grilled chicken and melted cheese folded into a flour tortilla served with salsa sour cream and guacamole.,Lunch
+Caprese Panini,$9.99 ,Entrée,Sliced tomatoes fresh mozzarella cheese and basil pesto pressed between slices of ciabatta bread until golden and gooey.,Lunch
+Pasta Primavera,$10.99 ,Entrée,Linguine pasta tossed with seasonal vegetables in a garlic and olive oil sauce finished with Parmesan cheese.,Lunch
+Club Sandwich,$11.99 ,Entrée,Triple-decker sandwich stacked with turkey bacon lettuce tomato and mayo served with fries or a side salad.,Lunch
+Soda,$2.99 ,Drink,Assorted soft drinks and sodas,Lunch
+Bruschetta,$8.99 ,Appetizers,Toasted bread topped with diced tomatoes garlic basil and olive oil.,Dinner
+Stuffed Mushrooms,$9.99 ,Appetizers,Mushroom caps filled with a savory mixture of breadcrumbs cheese and herbs.,Dinner
+Spinach Artichoke Dip,$10.99 ,Appetizers,Creamy blend of spinach artichokes and cheese served with tortilla chips.,Dinner
+Caesar Salad,$11.99 ,Salad,Crisp romaine lettuce croutons Parmesan cheese and Caesar dressing.,Dinner
+Greek Salad,$12.99 ,Salad,Fresh lettuce tomatoes cucumbers olives feta cheese and Greek dressing.,Dinner
+Mediterranean Chickpea Salad,$10.99 ,Salad,A refreshing salad featuring tender chickpeas crisp vegetables tangy feta cheese and Kalamata olives tossed in a zesty lemon vinaigrette dressing. Garnished with toasted pine nuts for added crunch.,Dinner
+Tomato Basil Soup,$8.99 ,Soups,Creamy tomato soup infused with basil flavor.,Dinner
+Lobster Bisque,$14.99 ,Soups,Rich and velvety soup made with lobster cream and herbs.,Dinner
+Grilled Salmon,$18.99 ,Entrée,Fresh salmon fillet grilled to perfection served with steamed vegetables and rice.,Dinner
+Ribeye Steak,$24.99 ,Entrée,Juicy ribeye steak cooked to your preference served with mashed potatoes and seasonal vegetables.,Dinner
+Chicken Marsala,$17.99 ,Entrée,Tender chicken breast sautéed with mushrooms and Marsala wine sauce served with pasta.,Dinner
+Shrimp Scampi,$19.99 ,Entrée,Succulent shrimp sautéed in garlic butter and white wine sauce served over linguine.,Dinner
+Vegetable Stir Fry,$15.99 ,Entrée,Assorted vegetables stir-fried in a savory sauce served with rice.,Dinner
+Spaghetti Carbonara,$16.99 ,Pasta,Spaghetti tossed in a creamy sauce with pancetta eggs Parmesan cheese and black pepper.,Dinner
+Fettuccine Alfredo,$14.99 ,Pasta,Fettuccine pasta coated in a rich and creamy Alfredo sauce.,Dinner
+New York Cheesecake,$8.99 ,Dessert,Creamy cheesecake on a graham cracker crust topped with strawberry sauce.,Dinner
+Chocolate Lava Cake,$9.99 ,Dessert,Warm chocolate cake with a gooey chocolate center served with vanilla ice cream.,Dinner
+Wine,Prices vary,Beverages,Selection of red and white wines available by the glass or bottle.,Dinner
+Soda,$2.99 ,Beverages,Assorted soft drinks and sodas.,Dinner
